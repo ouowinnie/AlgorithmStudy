@@ -1,10 +1,10 @@
 # [unrated] flag에 따라 다른 값 반환하기 - 181933 
 
-[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/181933) 
+[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/181933?language=kotlin) 
 
 ### 성능 요약
 
-메모리: 62.5 MB, 시간: 0.01 ms
+메모리: 61.2 MB, 시간: 0.02 ms
 
 ### 구분
 
