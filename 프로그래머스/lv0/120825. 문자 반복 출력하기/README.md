@@ -1,10 +1,10 @@
 # [level 0] 문자 반복 출력하기 - 120825 
 
-[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/120825) 
+[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/120825?language=kotlin) 
 
 ### 성능 요약
 
-메모리: 65.6 MB, 시간: 37.66 ms
+메모리: 60.5 MB, 시간: 11.97 ms
 
 ### 구분
 
